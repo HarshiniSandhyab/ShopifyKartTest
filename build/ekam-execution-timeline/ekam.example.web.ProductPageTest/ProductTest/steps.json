@@ -1,0 +1,16 @@
+[
+  {
+    "status": "passed",
+    "keyword": "When",
+    "name": "I hit search link",
+    "error_message": "",
+    "duration": 0
+  },
+  {
+    "status": "passed",
+    "keyword": "When",
+    "name": "I hit search button",
+    "error_message": "",
+    "duration": 0
+  }
+]
