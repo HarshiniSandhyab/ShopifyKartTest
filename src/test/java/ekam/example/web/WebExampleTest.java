@@ -11,7 +11,6 @@ import static org.testng.Assert.assertEquals;
 
 @Test(groups = "web")
 public class WebExampleTest extends WebTest {
-
     @TmsLink("TC-Web-001")
     @Issue("Issue-002")
     @Test(groups = "web", description = "Should navigate to Ekam documentation")
