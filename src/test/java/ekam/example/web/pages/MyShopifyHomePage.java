@@ -46,13 +46,9 @@ public class MyShopifyHomePage extends WebPage {
         WebDriverWait wait = new WebDriverWait(driver, 10);
         WebElement searchLinkelement = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[local-name()='svg' and @class=\"modal__toggle-open icon icon-search\"]")));
         searchLinkelement.click();
-        //element(setSearch).waitUntilDisplayed();
-        //textbox(setSearch).setText(text);
         WebElement textbox = wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//input[@id=\"Search-In-Modal\"]")));
         textbox.sendKeys(text);
         Thread.sleep(3000);
-        //WebElement listSize = driver.findElement(By.xpath("//h3[text()=\"DR MARTENS | CAVENDISH 3-EYE SHOE BLACK\"]"));
-        //listSize.click();
         List<WebElement> allSuggestions = driver.findElements(By.xpath("//ul[@id = 'predictive-search-results-list']//li"));
         int totalSuggestions = allSuggestions.size();
         System.out.println(totalSuggestions);

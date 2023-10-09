@@ -19,8 +19,9 @@ public class ProductPageTest extends WebTest {
 
         // 1. Arrange
         Page(MyShopifyProductPage.class).addAddtionalProduct(3);
-        //Page(MyShopifyProductPage.class).addToCart();
-       Page(MyShopifyProductPage.class).BuyNow();
+        Page(MyShopifyProductPage.class).addToCart();
+        Page(MyShopifyProductPage.class).viewingCart();
+       //Page(MyShopifyProductPage.class).BuyNow();
 
         // 2. Act
 
