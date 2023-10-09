@@ -1170,3 +1170,220 @@ Session ID: f717fda3-f99a-405e-8196-a60a531d0f87
 2023-09-25 17:16:06 INFO - Executing step I hit search button
 2023-09-25 17:16:13 INFO - Completed test ProductTest
 2023-09-25 17:16:14 INFO - Completed Ekam build
+2023-10-09 10:23:15 INFO - Running test ProductTest
+2023-10-09 10:23:15 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 10:23:15 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 10:23:15 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 10:23:15 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 10:23:15 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 10:23:15 INFO - Binding Screenshot interceptor
+2023-10-09 10:23:15 INFO - Binding WebStep interceptor
+2023-10-09 10:23:15 INFO - Binding MobileStep interceptor
+2023-10-09 10:23:15 INFO - Binding ApiStep interceptor
+2023-10-09 10:23:15 INFO - Loading API hosts file with name hosts.json
+2023-10-09 10:23:15 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 10:23:15 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 10:23:15 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 10:24:15 WARN - Error reading commands.properties, using local instead
+2023-10-09 10:25:18 WARN - Error reading versions.properties, using local instead
+2023-10-09 10:25:18 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 10:25:19 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 10:25:19 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 10:25:25 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 10:25:25 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 10:25:36 INFO - Executing step I hit search link
+2023-10-09 10:25:47 INFO - Executing step I hit search button
+2023-10-09 10:25:56 INFO - Completed test ProductTest
+2023-10-09 10:25:57 INFO - Completed Ekam build
+2023-10-09 11:21:03 INFO - Running test ProductTest
+2023-10-09 11:21:03 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 11:21:03 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 11:21:03 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 11:21:03 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 11:21:03 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 11:21:03 INFO - Binding Screenshot interceptor
+2023-10-09 11:21:03 INFO - Binding WebStep interceptor
+2023-10-09 11:21:03 INFO - Binding MobileStep interceptor
+2023-10-09 11:21:03 INFO - Binding ApiStep interceptor
+2023-10-09 11:21:03 INFO - Loading API hosts file with name hosts.json
+2023-10-09 11:21:03 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 11:21:03 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 11:21:03 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 11:22:03 WARN - Error reading commands.properties, using local instead
+2023-10-09 11:23:04 WARN - Error reading versions.properties, using local instead
+2023-10-09 11:23:04 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 11:23:05 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 11:23:05 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 11:23:09 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 11:23:09 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 11:23:19 INFO - Executing step I hit search link
+2023-10-09 11:23:30 INFO - Executing step I hit search button
+2023-10-09 11:24:01 INFO - Completed test ProductTest
+2023-10-09 11:24:01 INFO - Completed Ekam build
+2023-10-09 11:26:18 INFO - Running test ProductTest
+2023-10-09 11:26:18 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 11:26:18 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 11:26:18 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 11:26:18 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 11:26:18 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 11:26:18 INFO - Binding Screenshot interceptor
+2023-10-09 11:26:18 INFO - Binding WebStep interceptor
+2023-10-09 11:26:18 INFO - Binding MobileStep interceptor
+2023-10-09 11:26:18 INFO - Binding ApiStep interceptor
+2023-10-09 11:26:18 INFO - Loading API hosts file with name hosts.json
+2023-10-09 11:26:18 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 11:26:18 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 11:26:18 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 11:27:19 WARN - Error reading commands.properties, using local instead
+2023-10-09 11:28:19 WARN - Error reading versions.properties, using local instead
+2023-10-09 11:28:19 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 11:28:20 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 11:28:20 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 11:28:23 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 11:28:24 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 11:28:34 INFO - Executing step I hit search link
+2023-10-09 11:28:44 INFO - Executing step I hit search button
+2023-10-09 11:28:45 INFO - Completed test ProductTest
+2023-10-09 11:28:46 INFO - Completed Ekam build
+2023-10-09 11:30:41 INFO - Running test ProductTest
+2023-10-09 11:30:41 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 11:30:41 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 11:30:41 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 11:30:41 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 11:30:41 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 11:30:41 INFO - Binding Screenshot interceptor
+2023-10-09 11:30:41 INFO - Binding WebStep interceptor
+2023-10-09 11:30:41 INFO - Binding MobileStep interceptor
+2023-10-09 11:30:41 INFO - Binding ApiStep interceptor
+2023-10-09 11:30:41 INFO - Loading API hosts file with name hosts.json
+2023-10-09 11:30:41 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 11:30:41 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 11:30:41 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 11:31:41 WARN - Error reading commands.properties, using local instead
+2023-10-09 11:32:41 WARN - Error reading versions.properties, using local instead
+2023-10-09 11:32:41 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 11:32:42 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 11:32:42 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 11:32:45 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 11:32:46 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 11:32:56 INFO - Executing step I hit search link
+2023-10-09 11:33:06 INFO - Executing step I hit search button
+2023-10-09 11:33:07 INFO - Completed test ProductTest
+2023-10-09 11:33:08 INFO - Completed Ekam build
+2023-10-09 11:34:14 INFO - Running test ProductTest
+2023-10-09 11:34:14 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 11:34:14 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 11:34:14 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 11:34:14 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 11:34:14 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 11:34:14 INFO - Binding Screenshot interceptor
+2023-10-09 11:34:14 INFO - Binding WebStep interceptor
+2023-10-09 11:34:14 INFO - Binding MobileStep interceptor
+2023-10-09 11:34:14 INFO - Binding ApiStep interceptor
+2023-10-09 11:34:15 INFO - Loading API hosts file with name hosts.json
+2023-10-09 11:34:15 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 11:34:15 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 11:34:15 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 11:35:15 WARN - Error reading commands.properties, using local instead
+2023-10-09 11:36:15 WARN - Error reading versions.properties, using local instead
+2023-10-09 11:36:15 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 11:36:15 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 11:36:15 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 11:36:19 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 11:36:19 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 11:36:29 INFO - Executing step I hit search link
+2023-10-09 11:36:40 INFO - Executing step I hit search button
+2023-10-09 11:36:41 INFO - Completed test ProductTest
+2023-10-09 11:36:41 INFO - Completed Ekam build
+2023-10-09 11:38:27 INFO - Running test ProductTest
+2023-10-09 11:38:27 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 11:38:27 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 11:38:27 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 11:38:27 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 11:38:27 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 11:38:27 INFO - Binding Screenshot interceptor
+2023-10-09 11:38:27 INFO - Binding WebStep interceptor
+2023-10-09 11:38:27 INFO - Binding MobileStep interceptor
+2023-10-09 11:38:27 INFO - Binding ApiStep interceptor
+2023-10-09 11:38:27 INFO - Loading API hosts file with name hosts.json
+2023-10-09 11:38:27 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 11:38:27 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 11:38:27 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 11:39:28 WARN - Error reading commands.properties, using local instead
+2023-10-09 11:40:28 WARN - Error reading versions.properties, using local instead
+2023-10-09 11:40:28 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 11:40:29 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 11:40:29 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 11:40:32 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 11:40:32 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 11:40:43 INFO - Executing step I hit search link
+2023-10-09 11:40:53 INFO - Executing step I hit search button
+2023-10-09 11:40:55 INFO - Completed test ProductTest
+2023-10-09 11:40:56 INFO - Completed Ekam build
+2023-10-09 11:42:05 INFO - Running test ProductTest
+2023-10-09 11:42:05 INFO - Building Ekam Test {"feature":"ekam.example.web.ProductPageTest", "scenario":"ProductTest"}
+2023-10-09 11:42:05 INFO - Initialised test directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest
+2023-10-09 11:42:05 INFO - Initialised log directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/logs
+2023-10-09 11:42:05 INFO - Initialised screenshots directory path /Users/testvagrant/Documents/workSpace/Ekam-Template/build/ekam-execution-timeline/ekam.example.web.ProductPageTest/ProductTest/screenshots
+2023-10-09 11:42:05 INFO - Loaded Ekam build configuration {mobile.feed=mobilefeed, web.console.log=false, web.target=firefox, api.hosts=hosts, web.url=https://testvagrant.myshopify.com/cart}
+2023-10-09 11:42:05 INFO - Binding Screenshot interceptor
+2023-10-09 11:42:05 INFO - Binding WebStep interceptor
+2023-10-09 11:42:05 INFO - Binding MobileStep interceptor
+2023-10-09 11:42:05 INFO - Binding ApiStep interceptor
+2023-10-09 11:42:05 INFO - Loading API hosts file with name hosts.json
+2023-10-09 11:42:05 INFO - Parsing system property https://fakerapi.it/
+2023-10-09 11:42:05 INFO - Binding hosts {baseUrl=https://fakerapi.it/} to Named properties
+2023-10-09 11:42:05 INFO - Parsing web feed {"desiredCapabilities":{}, "arguments":[], "preferences":{}, "extensions":[], "experimentalOptions":{}}
+2023-10-09 11:43:06 WARN - Error reading commands.properties, using local instead
+2023-10-09 11:44:06 WARN - Error reading versions.properties, using local instead
+2023-10-09 11:44:06 INFO - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2023-10-09 11:44:07 INFO - No proper driver found for geckodriver (latest version) ... seeking another version
+2023-10-09 11:44:07 INFO - Exporting webdriver.gecko.driver as /Users/testvagrant/.cache/selenium/geckodriver/mac64/0.33.0-macos/geckodriver
+2023-10-09 11:44:11 INFO - Launched site https://testvagrant.myshopify.com/cart
+2023-10-09 11:44:11 INFO - Created targets json [
+  {
+    "name": "firefox",
+    "platform": "FIREFOX",
+    "platformVersion": "117.0.1"
+  }
+]
+2023-10-09 11:44:21 INFO - Executing step I hit search link
+2023-10-09 11:44:32 INFO - Executing step I hit search button
+2023-10-09 11:44:36 INFO - Completed test ProductTest
+2023-10-09 11:44:37 INFO - Completed Ekam build

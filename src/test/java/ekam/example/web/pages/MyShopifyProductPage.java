@@ -13,6 +13,7 @@ public class MyShopifyProductPage extends WebPage {
     private By BuyNowButton = queryByText("Buy it now");
     private By InCart = query("//span[text()=\"Cart\"]");
     private By totalInCart = query("//div[@class=\"cart-count-bubble\"]/span[1]");
+    private By ViewCart=queryById("cart-notification-button");
 
 
     @WebStep(keyword = "When", description = "I hit search button")
@@ -30,17 +31,22 @@ public class MyShopifyProductPage extends WebPage {
 //        }
 //        return this;
 //    }
-//public MyShopifyProductPage addToCart() {
-//    element(addToCartButton).click();
-//    return this;
-//
-//}
+public MyShopifyProductPage addToCart() {
+    element(addToCartButton).click();
+    return this;
 
-    public MyShopifyProductPage BuyNow() throws InterruptedException {
-        element(BuyNowButton).waitUntilDisplayed().click();
+}
+    public MyShopifyProductPage viewingCart() throws InterruptedException {
+        element(ViewCart).waitUntilDisplayed().click();
         Thread.sleep(3000);
         return this;
     }
+
+//    public MyShopifyProductPage BuyNow() throws InterruptedException {
+//        element(BuyNowButton).waitUntilDisplayed().click();
+//        Thread.sleep(3000);
+//        return this;
+//    }
 }
 
 
